@@ -1,0 +1,11 @@
+<SystemData>
+    <LoanProducts>
+        <Product id="1">
+            <MinAmount>1000</MinAmount>
+            <MaxAmount>50000</MaxAmount>
+            <MinTerm>12</MinTerm>
+            <MaxTerm>60</MaxTerm>
+        </Product>
+    </LoanProducts>
+</SystemData>
+

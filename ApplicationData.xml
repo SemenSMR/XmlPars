@@ -1,0 +1,12 @@
+<ApplicationData>
+    <Borrower>
+        <Name>John Sina</Name>
+        <Age>84</Age>
+        <TIN>1234567890</TIN>
+    </Borrower>
+    <Loan>
+        <ProductId>1</ProductId>
+        <Amount>30000</Amount>
+        <Term>36</Term>
+    </Loan>
+</ApplicationData>
